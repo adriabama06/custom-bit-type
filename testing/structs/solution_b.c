@@ -1,5 +1,6 @@
+// Two one but with structs, really easy!!!
+
 #include <stdio.h>
-#include <memory.h>
 
 /*
 Change:

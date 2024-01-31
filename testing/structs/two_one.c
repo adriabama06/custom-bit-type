@@ -1,7 +1,6 @@
 // Two one but with structs, really easy!!!
 
 #include <stdio.h>
-#include <memory.h>
 
 typedef struct two_of_four_bit {
    unsigned char two : 4;
